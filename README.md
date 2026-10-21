@@ -1,2 +1,2 @@
-# grid3-editor-updates
-Updates for the Grid 3 editor (code zips and manifest). No user data.
+# reginald-updates
+Updates for Reginald (code zips and manifest). No user data.
